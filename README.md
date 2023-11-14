@@ -1,15 +1,15 @@
 # Auto_ML
 
 ## Requirements
-create an anaconda environment with Python 3.8.18 version
-pip install streamlit
-pip install streamlit_pandas_profiling
-pip install pandas
-pip install --pre pycaret
-pip install --pre "pycaret[full]"
-pip install plotly
-pip install catboost
-pip install watchdog
+- create an anaconda environment with Python 3.8.18 version
+- pip install streamlit
+- pip install streamlit_pandas_profiling
+- pip install pandas
+- pip install --pre pycaret
+- pip install --pre "pycaret[full]"
+- pip install plotly
+- pip install catboost
+- pip install watchdog
 
 ## How to run?
 open terminal and type "conda activate <environment_name>"
