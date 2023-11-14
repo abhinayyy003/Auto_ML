@@ -12,10 +12,10 @@ pip install catboost
 pip install watchdog
 
 ## How to run?
-open terminal and type "conda activate <environment_name>" /n
-next "streamlit run app.py" /n
-Click on Profiling, then you can view data analysis report /n
-then click on Regression Modelling or Classification Modelling according to the dataset /n
-then Click on Download to download the best model in .pkl file /n
+open terminal and type "conda activate <environment_name>"
+next "streamlit run app.py"
+Click on Profiling, then you can view data analysis report
+then click on Regression Modelling or Classification Modelling according to the dataset
+then Click on Download to download the best model in .pkl file
 
 ### note : there is no pre-processing done in this code so upload the dataset which is pre-processed
